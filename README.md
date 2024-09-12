@@ -1,3 +1,12 @@
+# Document Layout Analysis.
+
+In this project, I have implemented a comprehensive document layout analysis tool that utilizes PaddleOCR to analyze the structure of document images. The functionality includes detecting the image orientation, enabling proper adjustment for further processing. Additionally, the system accurately recognizes tables within the document, extracting relevant data with high precision. Beyond table detection, the tool performs detailed layout analysis, identifying text blocks, images, and other elements in the document, making it easier to interpret and process complex multi-element documents. This tool streamlines document digitization, enhancing efficiency and accuracy in information extraction.
+
+
+
+
+
+
 <a name="1"></a>
 ## 1. Environment Preparation
 ### 1.1 Install PaddlePaddle
