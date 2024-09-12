@@ -36,3 +36,14 @@ pip3 install "paddleocr>=2.6.0.3"
 # Install the image direction classification dependency package paddleclas (if you do not use the image direction classification, you can skip it)
 pip3 install paddleclas>=2.4.3
 ```
+
+```bash
+# Setting Up Development Environment
+git clone 
+
+# Install Streamlit
+pip3 install streamlit
+
+# Run demo.py
+streamlit run demo.py
+```
